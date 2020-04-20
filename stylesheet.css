@@ -3,7 +3,6 @@
   width:cover;
   font-family: 'arial', sans-serif;
   text-align: center;
-  background-imge:url(carl-raw-8Gdayy2Lhi0-unsplash.jpg);
 }
 
 .container2 {
@@ -12,8 +11,7 @@
 
 .content {
   margin:80px;
-  background-color:
-  background-image: url(carl-raw-8Gdayy2Lhi0-unsplash.jpg);
+  background-image:url(carl-raw-8Gdayy2Lhi0-unsplash.jpg);
 }
 
 .login {
