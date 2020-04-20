@@ -2,12 +2,11 @@
 .container {
   font-family: 'arial', sans-serif;
   text-align: center
-  background-image: url(carl-raw-8Gdayy2Lhi0-unsplash.jpg);
-  width:cover
 }
 
 .content {
   background-color:
+  background-image: url(carl-raw-8Gdayy2Lhi0-unsplash.jpg);
 }
 
 .how_to_play {
