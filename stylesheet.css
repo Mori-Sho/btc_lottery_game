@@ -1,6 +1,6 @@
 
 body {
-  width: cover;
+  background-size:color;
   background-image:url(carl-raw-8Gdayy2Lhi0-unsplash.jpg);
 }
 
@@ -16,6 +16,7 @@ body {
 
 .content {
   margin:80px;
+  background-color: rgba(0,0,0,0.3);
 }
 
 .login {
